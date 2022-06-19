@@ -1,2 +1,2 @@
-# react-plactice
+# todo-react
 Created with CodeSandbox
